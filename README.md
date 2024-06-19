@@ -12,6 +12,7 @@ Allows You to Break Pins on **BluTV** Profiles. -|- BluTV Profillerindeki Pinler
 <p>Need Modules - Gereken Modüller:</p>
 ```
 * pip install colorama
+
 * pip install requests
 ```
 
