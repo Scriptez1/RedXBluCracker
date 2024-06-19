@@ -21,7 +21,7 @@ Allows You to Break Pins on **BluTV** Profiles. -|- BluTV Profillerindeki Pinler
 
 * open ````RedXBluCracker\Run.bat````
 
-* Enter **Email** and **Password** - **Email ve **Şifre** Gir
+* Enter **Email** and **Password** - **Email** ve **Şifre** Gir
 
 ![image](https://github.com/Scriptez1/RedXBluCracker/assets/96830819/c49a357a-8b47-4e75-b37d-0dc6280942e5)
 
