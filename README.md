@@ -19,7 +19,7 @@ pip install requests
 
 How To Use? - Nasıl Kullanılır:
 
-`#FF0000 open "````RedXBluCracker\Run.bat````" `
+open "````RedXBluCracker\Run.bat````" 
 
 Enter **Email** and **Password** - **Email ve **Şifre** Gir
 
