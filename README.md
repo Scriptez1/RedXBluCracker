@@ -2,7 +2,7 @@
 
 
 
-# RedXBluCracker
+# 💾 RedXBluCracker
 Allows You to Break Pins on **BluTV** Profiles. -|- BluTV Profillerindeki Pinleri Kırmanızı Sağlar.
 ```
 ██████╗░ ███████╗ ██████╗░ ██╗░░██╗
@@ -13,7 +13,7 @@ Allows You to Break Pins on **BluTV** Profiles. -|- BluTV Profillerindeki Pinler
 ╚═╝░░╚═╝ ╚══════╝ ╚═════╝░ ╚═╝░░╚═╝
 ```
 
-<p>Need Modules - Gereken Modüller:</p>
+# 🔧 Need Modules - Gereken Modüller:
 
 * ``` pip install colorama ```
 
@@ -21,7 +21,7 @@ Allows You to Break Pins on **BluTV** Profiles. -|- BluTV Profillerindeki Pinler
 
 -----------------------------------
 
-<p>How To Use? - Nasıl Kullanılır:</p>
+# 💻 How To Use? - Nasıl Kullanılır:
 
 * open ````RedXBluCracker\Run.bat````
 
@@ -41,4 +41,4 @@ Allows You to Break Pins on **BluTV** Profiles. -|- BluTV Profillerindeki Pinler
 
 ![image](https://github.com/Scriptez1/RedXBluCracker/assets/96830819/1f512c47-09ba-4803-9921-ae114d2008c7)
 
-<p>## Don't forget to give stars. 🌟🌟🌟 - Yıldız vermeyi unutmayın. 🌟🌟🌟</p>
+## Don't forget to give stars. 🌟🌟🌟 - Yıldız vermeyi unutmayın. 🌟🌟🌟
